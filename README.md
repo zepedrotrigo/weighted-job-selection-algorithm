@@ -23,3 +23,4 @@ make job_selection
 
 - [José Trigo](https://github.com/zepedrotrigo)
 - [Pedro Monteiro](https://github.com/pedromonteiro01)
+- [André Gomes](https://github.com/andregomes04)
